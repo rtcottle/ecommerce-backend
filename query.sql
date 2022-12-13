@@ -1,0 +1,1 @@
+SELECT product.product_name, product.price FROM product WHERE id = 1;
