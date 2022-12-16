@@ -2,7 +2,7 @@
 
 ## Description
 
-
+This is a database interaction app to manage inventory for an E-commerce store.
 
 ## Table of Contents
 
@@ -20,15 +20,19 @@
 
 ## Installation
 
-
+This app does require express, mysql, and sequelize.
 
 ## Usage
 
+Use this app for managing your inventory!
 
+Link to video:
+
+![screenshot](./screenshot.png)
 
 ## Credits
 
-
+Sequelize: https://sequelize.org/
 
 ## License
 
@@ -36,7 +40,7 @@ This project is under the [![License: MIT](https://img.shields.io/badge/License-
 
 ## Features
 
-
+Enables E-commerce businesses to link their products and categorize them together.
 
 ## How to Contribute
 
@@ -44,7 +48,7 @@ Github profile
 
 ## Tests
 
-
+Try using ![Insomnia](https://insomnia.rest/download) to try a get, post, put, and delete request.
 
 ## Questions
 
