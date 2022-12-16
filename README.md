@@ -26,7 +26,7 @@ This app does require express, mysql, and sequelize.
 
 Use this app for managing your inventory!
 
-Link to video:
+Link to video: https://drive.google.com/file/d/1w_csS1jl8Z70b8mmLtp31pR1dMSHdQZy/view
 
 ![screenshot](./screenshot.png)
 
